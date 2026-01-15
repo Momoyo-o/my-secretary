@@ -31,7 +31,7 @@ Google Apps Script (GAS) を基盤とし、複数のAPIとスクレイピング�
 
 ## リポジトリ構成
 - `main.js`: システム本体のソースコード（GAS）
-- `design_document.pdf`: 要件定義およびシステム設計書
+- `design_doc.pdf`: 要件定義およびシステム設計書
 
 ## 免責事項
 セキュリティ保護のため、アクセストークンおよびユーザーIDは環境変数（Script Properties）として管理し、ソースコード上では伏字としています。
